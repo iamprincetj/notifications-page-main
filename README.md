@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/iamprincetj/notifications-page-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [ptj-notification-main](https://ptj-notification-main.netlify.app/)
 
 ## My process
 
