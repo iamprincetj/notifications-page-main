@@ -31,11 +31,11 @@ Users should be able to:
 
 ## Mobile
 
-![mobile](mobile.png)
+![mobile](./mobile.png)
 
 ## desktop
 
-![desktop](desktop.png)
+![desktop](./desktop.png)
 
 ### Links
 
@@ -61,8 +61,8 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@iamprincetj](https://www.frontendmentor.io/profile/iamprincetj)
+- Twitter - [@Iam_princetj](https://x.com/Iam_princetj)
 
 ## Acknowledgments
 
